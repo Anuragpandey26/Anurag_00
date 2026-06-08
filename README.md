@@ -11,23 +11,7 @@
 
 ---
 
-### 🏢 Experience
 
-**Backend Developer Intern @ Webden (Dec 2025 – Mar 2026)**
-- Built document workflow backend handling **100+ operations/day**
-- Implemented **PostgreSQL full-text search (25–35% faster queries)**
-- Designed **AWS S3 secure storage system**
-- Built **email notification system (Adapter Pattern)**
-- Automated cleanup using **cron jobs (20% storage optimization)**
-
-**Backend Developer Intern @ Jabsz Gaming Studios (Mar 2025 – Nov 2025)**
-- Implemented **2FA authentication (reduced risk by 50%)**
-- Built **RBAC system for multi-role access control**
-- Developed **real-time backend using Socket.io**
-- Integrated **Stripe payments**
-- Designed scalable APIs for internal dashboard
-
----
 
 ### 🛠️ Tech Stack
 
